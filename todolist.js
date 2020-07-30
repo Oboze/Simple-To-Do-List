@@ -1,4 +1,4 @@
-var numberOfListItems=0;
+                var numberOfListItems=0;
                 var totalItems=document.getElementById('totalItems');
                 totalItems.textContent='You have '+numberOfListItems+ ' activities on your to do list';
 
